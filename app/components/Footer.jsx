@@ -8,7 +8,7 @@ const Footer = ({isDarkMode}) => {
         <div className='text-center mt-10'>
             <Image alt='' src={isDarkMode? assets.logo_dark :assets.logo} className='w-36 mx-auto mb-3' />
             <div className='w-max flex items-center gap-2 mx-auto'>
-                <Image alt='' src={assets.mail_icon} className=' w-6' /> example@gmail.com
+                <Image alt='' src={assets.mail_icon} className=' w-6' /> williammark@gmail.com
             </div>
         </div>
 
